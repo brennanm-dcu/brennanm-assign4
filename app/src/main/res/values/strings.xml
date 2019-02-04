@@ -1,0 +1,74 @@
+<resources>
+
+    <!--   Strings for activity_main     -->
+    <string name="app_name">Assign4 2019 Matthew Brennan</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+    <!--   Strings for tab1_home     -->
+    <string name="tab1_txtv1">WELCOME!</string>
+    <string name="tab1_txtv2">To The CODERDS T-Shirts</string>
+    <string name="tab1_txtv5">#  OnLine Store    #</string>
+    <string name="tab1_txtv3">Premium Quality Material with Set Designed Logos and Also Custom T-Shirt Printing Available</string>
+    <string name="action_settings">Settings</string>
+
+       <!--   Strings for tab3_orders     -->
+
+    <string name="order_ts">Order T-Shirt</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="take_photo">Click Here To Take Photo for T-Shirt</string>
+    <string name="enter_address">Delivery Address : </string>
+    <string name="ready_time">Delivery/Collection in (days)</string>
+    <string name="send_order">Send Order</string>
+    <string name="image_taken">Photo Taken Successfully!</string>
+        <!--   String Array for spinner     -->
+    <string-array name="ui_time_entries">
+        <item>" 2"</item>
+        <item>" 3"</item>
+        <item>" 4"</item>
+        <item>" 5"</item>
+        <item>10</item>
+        <item>14</item>
+    </string-array>
+
+    <!--   Strings used in E-Mail    -->
+    <string name="no_items_selected">NO ITEMS SELECTED!!</string>
+    <string name="items_selected">---THE CODERS T-SHIRTS---</string>
+    <string name="customer_name">Name</string>
+    <string name="order_message_1">My Order : T-Shirt(s) with LOGO: </string>
+    <string name="missingAddress">Please TAB back and supply a Delivery Address.</string>
+    <string name="noAddress">NO ADDRESS</string>
+    <string name="order_message_collect">I will collect my order in </string>
+    <string name="order_message_deliver">Please deliver my Order to  </string>
+    <string name="order_message_instructions">Delivery -or- Collect: </string>
+    <string name="order_message_end">Regards</string>
+    <string name="customer_name_blank">You did not enter your name.</string>
+    <string name="notification_title">Notification!</string>
+    <string name="image_confirm">Image saved successfully </string>
+    <string name="to_email">my-tshirt@sda.ie</string>
+    <string name="email_subject">Order Request </string>
+
+    <!--   Strings used in collection fragment    -->
+    <string name="cool_coder_text">The COOL CODERS T-Shirt Online Store!</string>
+    <string name="national_collection_points">National Collection points!</string>
+    <string name="collection_points_text">Please select the Collection Point that is most convienent for you from the drop down list below.</string>
+    <string name="selectLocation"> Selected For Collection.</string>
+    <string name="dublin_address">45 St Stephens Green, Dublin 2, Dublin City</string>
+    <string name="dublin_phone_num">(10) 345889</string>
+
+    <string name="cork_address">22 Lee House, Patricks St, Cork City</string>
+    <string name="cork_phone_num">(02) 345564</string>
+
+    <string name="limerick_address">21 O Connell St, limerick City</string>
+    <string name="limerick_phone_num">(061) 282877</string>
+
+    <string name="galway_address">22 Salt Hill, Galway City</string>
+    <string name="galway_phone_num">(091) 227272</string>
+
+    <string name="belfast_address">16 The City Centre, Belfast City</string>
+    <string name="belfast_phone_num"> 028 123 4567</string>
+
+    <string name="athlone_address">16 Shannon St, Athlone Town</string>
+    <string name="athlone_phone_num"> 090 993 4567</string>
+</resources>
